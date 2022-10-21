@@ -2,7 +2,7 @@
   
 Snake is an older classic computer game. It was first created at the end of 70s. Later on it was brought to PCs.  
 
-Language used: **Java**, **JFrame**.  
+Language used: **Java**.  
 Software used: **Intellij**.  
 
 * With this game the player controls the snake. 
